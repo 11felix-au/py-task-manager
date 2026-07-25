@@ -1,2 +1,4 @@
-# py-task-manager
+# Py Task Manager
+
 A CLI-based task manager to list, add, and delete daily tasks.
+
